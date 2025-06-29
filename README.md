@@ -4,8 +4,22 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,unity" /> <img src="https://skillicons.dev/icons?i=c,cpp,java,nodejs" /> <img src="https://skillicons.dev/icons?i=git,docker,arch,bash,md,mysql" /><br>
 </p>
 
+## 📖 About me
+
+- AMGames TC (2023-2025): Founder, tech lead and programmer
+- Computer Science (2020-2022/2025-2027)
+
+## 🔎 Future
+
+- Learn how to create operating systems
+- Learn how graphic api works
+- Build my own game engine using C/C++ or Zig
+- Learn Go and make any toy-api
+
+## 🎮 Games
+
 <details>
-  <summary>🎮 Games</summary>
+  <summary>Click here to see all titles i've work on</summary>
   <br>
   
   **Echoes of Madness** (2023)
