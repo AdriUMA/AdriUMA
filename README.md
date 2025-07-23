@@ -4,17 +4,21 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,c,cpp,java,nodejs,git,docker,arch,bash,md,mysql" /><br>
 </p>
 
-## 📖 About me
-
-- AMGames TC (2023-2025): Founder, tech lead and programmer
-- Computer Science (2020-2022/2025-2027)
-
-## 🔎 Future
-
-- Learn how to create operating systems
-- Learn how graphic api works
-- Build my own game engine using C/C++ or Zig
-- Learn Go and make any toy-api
+<p align="center">
+  <a href="https://adriantm.dev/about-me" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    padding: 16px 32px;
+    background: linear-gradient(to right, #6366f1, #8b5cf6);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(139, 92, 246, 0.6);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    👉 Visita mi web
+  </a>
+</p>
 
 ## 🎮 Games
 
