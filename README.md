@@ -6,7 +6,7 @@
 
 <p align="center">
   👉
-  <a href="https://adriantm.dev/about-me" target="_blank" style="font-size: 30px;">
+  <a href="https://portfolio.adriantm.dev/about-me" target="_blank" style="font-size: 30px;">
     <b> My Website / About Me </b>
   </a>
   👈
